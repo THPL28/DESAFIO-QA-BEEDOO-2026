@@ -6,6 +6,7 @@
 **Analista de Qualidade:** Tiago Looze
 **Aplicação:** Sistema de Gerenciamento de Cursos
 **Ambiente Testado:** https://creative-sherbet-a51eac.netlify.app/
+**Planilha contendo relatório de cenários e casos de teste:** https://docs.google.com/spreadsheets/d/1oWqyAPKy3gdYQmiUpK4UfbEcoVBCnhtJeoJoERnMg7M/edit?usp=sharing
 
 ## 📋 RESUMO EXECUTIVO
 
